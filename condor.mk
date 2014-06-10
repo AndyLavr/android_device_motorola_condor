@@ -125,8 +125,7 @@ PRODUCT_PACKAGES += \
     libOmxCore \
     libmm-omxcore \
     libOmxVdec \
-    libOmxVdecHevc \
-    libOmxVenc
+    libOmxVdecHevc
 
 PRODUCT_PACKAGES += \
     libOmxAacEnc \
