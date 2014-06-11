@@ -105,6 +105,7 @@ PRODUCT_PACKAGES += \
     gralloc.msm8610 \
     libgenlock \
     lights.msm8610 \
+    hwcomposer.msm8610 \
     memtrack.msm8610
 
 PRODUCT_PACKAGES += \
